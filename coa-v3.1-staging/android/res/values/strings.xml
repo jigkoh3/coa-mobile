@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">COA</string>
+    <string name="launcher_name">@string/app_name</string>
+    <string name="activity_name">@string/launcher_name</string>
+    <string name="fungus_param_service_number">4132006</string>
+    <string name="fungus_param_icpid">132</string>
+    <string name="fungus_param_app_version">1.0.0</string>
+    <string name="fungus_param_certificate">StartUp_20014.crt</string>
+    
+</resources>

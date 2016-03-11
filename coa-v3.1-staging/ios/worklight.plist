@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>protocol</key>
+	<string>http</string>
+	<key>host</key>
+	<string>110.49.202.21</string>
+	<key>port</key>
+	<string>8080</string>
+	<key>wlServerContext</key>
+	<string>/worklight</string>
+	<key>application id</key>
+	<string>COA</string>
+	<key>application version</key>
+	<string>1.0</string>
+	<key>environment</key>
+	<string>iphone</string>
+</dict>
+</plist>
